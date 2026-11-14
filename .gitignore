@@ -1,0 +1,7 @@
+.env
+*.json
+!package.json
+logs/
+*.log
+door_unlock_log.txt
+__pycache__/
