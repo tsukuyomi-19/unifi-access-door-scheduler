@@ -1,5 +1,7 @@
 # UniFi Access Door Scheduler
 
+Prototype - Absolutely not the best way to implement this. UniFi has a very limited API, which is what prompted this project.
+
 Automates temporary door unlocks in **UniFi Access** from emailed event and unlock requests.
 
 ## How it works
